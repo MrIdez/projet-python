@@ -1,0 +1,1 @@
+Ce dépôt contient l'ensemble des mes projets personnel en python que j'ai réalisé durant ma Terminale 

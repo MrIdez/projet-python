@@ -50,7 +50,7 @@ def main() :
 		os.system('clear')
 	if os.name in ('nt', 'dos'):
 		os.system('cls')
-		t.sleep(2)
+	t.sleep(2)
 	print('Salut !')
 	print("Si tu es ici c'est surement pour jouer a de nombreux Jeux (Bon, il en n'a que deux pour l'instant mais bon... )",flush=True)
 	print('\n')
@@ -136,6 +136,9 @@ def main() :
 		MonPrint('1')
 		t.sleep(1)
 		return main()
-main()
+
+
+if __name__ == "__main__" :
+	main()
 
 
