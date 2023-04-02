@@ -91,7 +91,7 @@ class CarteBridge:
 		return self.__couleur
 
 	def GetFigure(self):
-		"""Renvoie la valeur de la carte"""
+		"""Renvoie la figure de la carte"""
 		return self.__figure
 
 	# setters
