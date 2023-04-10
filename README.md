@@ -25,6 +25,9 @@ Ce projet m'a permis de me familiariser avec le Python dans le cadre du dévelop
 
 Cependant,la partie objet de ce programme n'est pas très évolué, il n'y a pas d’héritage par exemple. De plus, le jeu du président n'est pas complet et bug à parti d'un moment
 
+## Licence 
+
+Ce projet est sous licence MIT voir le fichier [LICENCE](LICENCE) pour plus de détails
 
 ## Auteur
 
